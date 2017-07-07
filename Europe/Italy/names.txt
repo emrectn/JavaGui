@@ -1,0 +1,9 @@
+Bologna
+Cenova
+Floransa
+Lucca
+Milano
+Napoli
+Palermo
+Parma
+Roma
